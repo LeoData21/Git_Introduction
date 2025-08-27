@@ -1,5 +1,5 @@
 # Git_Introduction
-- Introduction to Git and Github
+- Introduction to Git and Github!
 
 # GitHub Workshop II
-- Creating and Merging Branches
+- Creating and Merging Branches!
